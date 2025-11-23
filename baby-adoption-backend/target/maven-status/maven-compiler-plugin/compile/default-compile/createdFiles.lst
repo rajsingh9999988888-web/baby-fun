@@ -1,0 +1,16 @@
+com\babyadoption\model\BabyPost$PostStatus.class
+com\babyadoption\controller\UserController$RoleUpdateRequest.class
+com\babyadoption\config\CorsConfig.class
+com\babyadoption\model\User.class
+com\babyadoption\repository\UserRepository.class
+com\babyadoption\controller\UserController$LoginRequest.class
+com\babyadoption\config\UserDataInitializer.class
+com\babyadoption\controller\UserController$AuthResponse.class
+com\babyadoption\SpringBootApplication.class
+application.properties
+com\babyadoption\BabyAdoptionBackendApplication.class
+com\babyadoption\model\BabyPost.class
+com\babyadoption\model\User$UserRole.class
+com\babyadoption\controller\BabyController.class
+com\babyadoption\controller\UserController.class
+com\babyadoption\controller\UserController$SignupRequest.class

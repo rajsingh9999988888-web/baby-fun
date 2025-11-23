@@ -1,11 +1,34 @@
 {
+  "name": "fun",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
   "dependencies": {
-    "react-router-dom": "^7.9.4"
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "react-router": "^7.9.4",
+    "react-router-dom": "^7.9.4",
+    "vite": "^7.2.4"
   },
   "devDependencies": {
-    "@types/node": "^24.9.1",
-    "@types/react": "^19.2.2",
-    "@types/react-dom": "^19.2.2",
+    "@vitejs/plugin-react": "^5.1.1",
     "typescript": "^5.9.3"
-  }
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajsingh9999988888-web/baby-fun.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rajsingh9999988888-web/baby-fun/issues"
+  },
+  "homepage": "https://github.com/rajsingh9999988888-web/baby-fun#readme"
 }
